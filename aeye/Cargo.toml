@@ -1,0 +1,12 @@
+[package]
+name = "aeye"
+version = "0.1.0"
+authors = ["Simon Mutch <smutch@unimelb.edu.au>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.16"
+bspline = "1.0"
+num-traits = "0.2"
